@@ -95,6 +95,4 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request.
 
 ## 📄 License
-
-## 📄 License
 Distributed under the **MIT License**. See [LICENSE](./LICENSE) for details.
